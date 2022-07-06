@@ -1,0 +1,89 @@
+.top{
+    height: 600px;
+    background-image: url(images/help2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.top-heading{
+    color: white;
+    margin: 0;
+    font-size: 60px;
+    text-align: center;
+    
+}
+.top-heading-div{
+    padding-top: 140px;
+}
+.top-paragraph{
+    color: white;
+    text-align: center;
+}
+.top-link{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    border: 2px solid tomato;
+    border-radius: 5px;
+    background-image: linear-gradient(red,tomato);
+    font-weight: bolder;
+}
+.top-link-div{
+    padding-left: 600px;
+}
+.middle-heading{
+    color:black;
+    margin: 0;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
+.middle-paragraph{
+    color:black;
+    text-align: center;
+}
+.middle-heading-div{
+    padding-top: 140px;
+}
+.middle-money-div{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 200px;
+}
+.money-special{
+    border: 2px solid red;
+    padding: 3px 6px;
+    border-radius: 6px;
+}
+.input{
+    border: none;
+    border-bottom: 2px solid rgb(201, 190, 190);
+    text-align: center;
+    width: 700px;
+}
+.middle-inpur{
+    display: block;
+    padding-left: 650px;
+    margin-bottom: 50px;
+}
+.middle-input{
+    padding: 0 400px;
+}
+.donation-plans{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.donation-part{
+    padding: 80px 100px;
+}
+.donation-part p{
+    text-align: justify;
+}
