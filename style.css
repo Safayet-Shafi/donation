@@ -82,8 +82,19 @@ body{
     
 }
 .donation-part{
-    padding: 80px 100px;
+    padding: 80px 20px;
+    border: 2px solid wheat;
+    margin: 15px 22px;
 }
 .donation-part p{
     text-align: justify;
+}
+.food{
+    background-color: rgb(178, 243, 221);
+}
+.shelter{
+    background-color: rgb(236, 245, 187);
+}
+.education{
+    background-color: rgb(245, 187, 206);
 }
