@@ -58,9 +58,11 @@ body{
     padding: 0 200px;
 }
 .money-special{
-    border: 2px solid red;
+    border: 2px solid rgb(241, 46, 46);
     padding: 3px 6px;
     border-radius: 6px;
+    background-color: rgb(245, 232, 230);
+    color: tomato;
 }
 .input{
     border: none;
@@ -83,20 +85,20 @@ body{
 }
 .donation-part{
     padding: 80px 20px;
-    border: 2px solid wheat;
+    border: 0px solid wheat;
     margin: 15px 22px;
 }
 .donation-part p{
     text-align: justify;
 }
 .food{
-    background-color: rgb(178, 243, 221);
+    background-color: rgb(213, 243, 233);
 }
 .shelter{
-    background-color: rgb(236, 245, 187);
+    background-color: rgb(242, 247, 218);
 }
 .education{
-    background-color: rgb(245, 187, 206);
+    background-color: rgb(247, 226, 233);
 }
 .about-us{
     background-color: rgb(199, 241, 227);
@@ -123,9 +125,10 @@ body{
 .last-half{
     display: flex;
     background-color: rgba(238, 209, 197, 0.685);
-    margin: 150px;
+    margin: 210px;
     padding: 100px;
-    padding-left: 400px;
+    padding-left: 350px;
+    
 }
 .last-input{
     border: 0px solid rgb(255, 252, 252);
