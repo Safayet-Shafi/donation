@@ -143,8 +143,8 @@ body{
 .end{
     background-color: black;
     text-align: center;
-    margin: 0;
-    padding: 0;
+    height: 40vh;
+    width: 100%;
 }
 .end-head{
     color: tomato;
